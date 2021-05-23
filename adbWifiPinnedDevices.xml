@@ -1,0 +1,5 @@
+<application>
+  <component name="PinDeviceService">
+    <option name="pinnedDevices" value="[{&quot;id&quot;:&quot;172.16.17.99:5555&quot;,&quot;serialNumber&quot;:&quot;SOYS9HYGYL&quot;,&quot;name&quot;:&quot;rockchip TV BOX&quot;,&quot;address&quot;:&quot;172.16.17.99&quot;,&quot;androidVersion&quot;:&quot;9&quot;,&quot;apiLevel&quot;:&quot;28&quot;}]" />
+  </component>
+</application>
